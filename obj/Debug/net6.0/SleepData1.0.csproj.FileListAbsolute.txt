@@ -1,0 +1,14 @@
+C:\Users\Quinn\Downloads\SleepData1.0\bin\Debug\net6.0\SleepData1.0.exe
+C:\Users\Quinn\Downloads\SleepData1.0\bin\Debug\net6.0\SleepData1.0.deps.json
+C:\Users\Quinn\Downloads\SleepData1.0\bin\Debug\net6.0\SleepData1.0.runtimeconfig.json
+C:\Users\Quinn\Downloads\SleepData1.0\bin\Debug\net6.0\SleepData1.0.dll
+C:\Users\Quinn\Downloads\SleepData1.0\bin\Debug\net6.0\SleepData1.0.pdb
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.AssemblyInfoInputs.cache
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.AssemblyInfo.cs
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.dll
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\refint\SleepData1.0.dll
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.pdb
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.genruntimeconfig.cache
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\ref\SleepData1.0.dll

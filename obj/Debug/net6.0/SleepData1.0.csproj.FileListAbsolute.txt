@@ -12,3 +12,4 @@ C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\refint\SleepData1.0.dll
 C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.pdb
 C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.genruntimeconfig.cache
 C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\ref\SleepData1.0.dll
+C:\Users\Quinn\Downloads\SleepData1.0\obj\Debug\net6.0\SleepData1.0.sourcelink.json

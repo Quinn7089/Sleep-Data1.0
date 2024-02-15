@@ -107,7 +107,7 @@ else if (resp == "2")
     avgHours =  Math.Round(avgHours, 2);
      Console.WriteLine($"Week of {month:MMM}, {date[1]:dd}, {date[2]:yyyy}");  
      Console.WriteLine("Su Mo Tu Th Fr Sa Tot Avg");
-     Console.WriteLine("-- -- -- -- -- -- -- --");
+     Console.WriteLine("-- -- -- -- -- -- --- ---");
           for(int q = 0; q < dateHours.Length; q++){
               Console.Write($" {dateHours [q]}");
          
